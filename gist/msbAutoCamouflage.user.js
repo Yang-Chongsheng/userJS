@@ -7,8 +7,8 @@
 // @match        https://www.mashibing.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mashibing.com
 // @grant        none
-// @downloadURL  https://github.com/Yang-Chongsheng/userJS/raw/refs/heads/main/gist/atme.user.js
-// @updateURL    https://github.com/Yang-Chongsheng/userJS/raw/refs/heads/main/gist/atme.user.js
+// @downloadURL  https://github.com/Yang-Chongsheng/userJS/raw/refs/heads/main/gist/msbAutoCamouflage.user.js
+// @updateURL    https://github.com/Yang-Chongsheng/userJS/raw/refs/heads/main/gist/msbAutoCamouflage.user.js
 // ==/UserScript==
 
 (function() {
