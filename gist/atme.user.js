@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         msb auto camouflage
 // @namespace    http://tampermonkey.net/
-// @version      0.0.1
+// @version      0.0.2
 // @description  msb auto camouflage
 // @author       csyg
 // @match        https://www.mashibing.com/*
